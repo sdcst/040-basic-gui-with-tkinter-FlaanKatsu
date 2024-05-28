@@ -9,7 +9,7 @@ Objectives:
 TKinter is a class that can be used to create a graphical user interface
 in Python.  It is cross platform, meaning that all gui's created make
 use of the local operating system to build its user interface, so a 
-Python app built on a Mac will look like a Mac app.
+Python app built on a Mac will look like a Mac app. [note: rather, a python app runnng on a mac will look like a mac app. build OS does not matter here]
 
 All of the features that can be added to an app window are called widgets,
 and these include buttons, entry boxes, text boxes, and even some
